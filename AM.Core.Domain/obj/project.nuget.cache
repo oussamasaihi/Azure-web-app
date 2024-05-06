@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D9vEaKjatZ8uEktDStmhAiUPL2wvQfw8iUFuYGj1rCFVEWo1LzJYs7vzIZaV0TmTywLTiYCIjbRLAzy49afhEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oussa\\Desktop\\AirportManagement-master\\AM.Core.Domain\\AM.Core.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oussa\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.9\\microsoft.entityframeworkcore.abstractions.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+C:\Users\oussa\Desktop\AirportManagement-master\AM.Core.Interface\bin\Debug\net6.0\publish\AM.Core.Interface.dll
+C:\Users\oussa\Desktop\AirportManagement-master\AM.Core.Interface\bin\Debug\net6.0\publish\AM.Core.Interface.deps.json
+C:\Users\oussa\Desktop\AirportManagement-master\AM.Core.Interface\bin\Debug\net6.0\publish\AM.Core.Interface.pdb

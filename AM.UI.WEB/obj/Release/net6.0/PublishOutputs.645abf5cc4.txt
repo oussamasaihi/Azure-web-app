@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\AirportManagement-master\publish\AM.UI.WEB.exe
+C:\Users\oussa\Desktop\AirportManagement-master\publish\appsettings.Development.json
+C:\Users\oussa\Desktop\AirportManagement-master\publish\appsettings.json
+C:\Users\oussa\Desktop\AirportManagement-master\publish\AM.UI.WEB.dll
+C:\Users\oussa\Desktop\AirportManagement-master\publish\AM.UI.WEB.deps.json
+C:\Users\oussa\Desktop\AirportManagement-master\publish\AM.UI.WEB.runtimeconfig.json
+C:\Users\oussa\Desktop\AirportManagement-master\publish\AM.UI.WEB.pdb

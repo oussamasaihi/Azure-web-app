@@ -1,0 +1,4 @@
+C:\Users\oussa\Desktop\AirportManagement-master\AM.Core.Domain\bin\Debug\net6.0\publish\AM.Core.Domain.dll
+C:\Users\oussa\Desktop\AirportManagement-master\AM.Core.Domain\bin\Debug\net6.0\publish\AM.Core.Domain.deps.json
+C:\Users\oussa\Desktop\AirportManagement-master\AM.Core.Domain\bin\Debug\net6.0\publish\AM.Core.Domain.pdb
+C:\Users\oussa\Desktop\AirportManagement-master\AM.Core.Domain\bin\Debug\net6.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
